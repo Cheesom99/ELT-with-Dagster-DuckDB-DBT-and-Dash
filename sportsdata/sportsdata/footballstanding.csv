@@ -1,0 +1,127 @@
+,#,Team,Pl,W,D,L,F,A,GD,Pts,Last 6,Source
+0,1,Monaco,8,5,2,1,21,11,10,17,,Ligue 1
+1,2,Nice,8,4,4,0,9,4,5,16,,Ligue 1
+2,3,Paris Saint-Germain,8,4,3,1,17,7,10,15,,Ligue 1
+3,4,Brest,8,4,3,1,9,7,2,15,,Ligue 1
+4,5,Reims,8,4,1,3,14,11,3,13,,Ligue 1
+5,6,Marseille,8,3,3,2,12,11,1,12,,Ligue 1
+6,7,Lille,8,3,3,2,11,10,1,12,,Ligue 1
+7,8,Rennes,8,2,5,1,14,10,4,11,,Ligue 1
+8,9,Nantes,8,3,2,3,14,15,-1,11,,Ligue 1
+9,10,Toulouse,8,2,4,2,10,9,1,10,,Ligue 1
+10,11,Strasbourg,8,3,1,4,8,11,-3,10,,Ligue 1
+11,12,Montpellier,7,2,3,2,12,9,3,9,,Ligue 1
+12,13,Le Havre,8,2,3,3,10,12,-2,9,,Ligue 1
+13,14,RC Lens,8,2,2,4,8,13,-5,8,,Ligue 1
+14,15,Metz,8,2,2,4,7,14,-7,8,,Ligue 1
+15,16,Lorient,8,1,4,3,13,18,-5,7,,Ligue 1
+16,17,Lyon,8,0,3,5,6,16,-10,3,,Ligue 1
+17,18,Clermont,7,0,2,5,5,12,-7,2,,Ligue 1
+18,1,Tottenham Hotspur,8,6,2,0,18,8,10,20,,Premier League
+19,2,Arsenal,8,6,2,0,16,6,10,20,,Premier League
+20,3,Manchester City,8,6,0,2,17,6,11,18,,Premier League
+21,4,Liverpool,8,5,2,1,18,9,9,17,,Premier League
+22,5,Aston Villa,8,5,1,2,19,12,7,16,,Premier League
+23,6,Brighton and Hove Albion,8,5,1,2,21,16,5,16,,Premier League
+24,7,West Ham United,8,4,2,2,15,12,3,14,,Premier League
+25,8,Newcastle United,8,4,1,3,20,9,11,13,,Premier League
+26,9,Crystal Palace,8,3,3,2,7,7,0,12,,Premier League
+27,10,Manchester United,8,4,0,4,9,12,-3,12,,Premier League
+28,11,Chelsea,8,3,2,3,11,7,4,11,,Premier League
+29,12,Fulham,8,3,2,3,8,13,-5,11,,Premier League
+30,13,Nottingham Forest,8,2,3,3,8,10,-2,9,,Premier League
+31,14,Wolverhampton Wanderers,8,2,2,4,9,14,-5,8,,Premier League
+32,15,Brentford,8,1,4,3,11,12,-1,7,,Premier League
+33,16,Everton,8,2,1,5,9,12,-3,7,,Premier League
+34,17,Luton Town,8,1,1,6,6,15,-9,4,,Premier League
+35,18,Burnley,8,1,1,6,7,20,-13,4,,Premier League
+36,19,Bournemouth,8,0,3,5,5,18,-13,3,,Premier League
+37,20,Sheffield United,8,0,1,7,6,22,-16,1,,Premier League
+38,1,Real Madrid,9,8,0,1,20,6,14,24,,la liga
+39,2,Girona,9,7,1,1,19,11,8,22,,la liga
+40,3,Barcelona,9,6,3,0,21,10,11,21,,la liga
+41,4,Atletico Madrid,8,6,1,1,20,8,12,19,,la liga
+42,5,Athletic Bilbao,9,5,2,2,16,9,7,17,,la liga
+43,6,Real Sociedad,9,4,3,2,17,12,5,15,,la liga
+44,7,Real Betis,9,3,4,2,11,13,-2,13,,la liga
+45,8,Rayo Vallecano,9,3,4,2,11,13,-2,13,,la liga
+46,9,Valencia,9,3,2,4,10,11,-1,11,,la liga
+47,10,Las Palmas,9,3,2,4,6,8,-2,11,,la liga
+48,11,Getafe,9,2,4,3,12,15,-3,10,,la liga
+49,12,Osasuna,9,3,1,5,9,14,-5,10,,la liga
+50,13,Cadiz,9,2,3,4,8,12,-4,9,,la liga
+51,14,Sevilla,8,2,2,4,13,12,1,8,,la liga
+52,15,Real Mallorca,9,1,5,3,12,15,-3,8,,la liga
+53,16,Villarreal,9,2,2,5,11,15,-4,8,,la liga
+54,17,Alaves,9,2,2,5,7,13,-6,8,,la liga
+55,18,Celta Vigo,9,1,3,5,10,15,-5,6,,la liga
+56,19,Granada,9,1,3,5,15,23,-8,6,,la liga
+57,20,Almeria,9,0,3,6,11,24,-13,3,,la liga
+58,1,Bayer Leverkusen,7,6,1,0,23,6,17,19,,Bundesliga
+59,2,Stuttgart,7,6,0,1,22,8,14,18,,Bundesliga
+60,3,Bayern Munich,7,5,2,0,23,6,17,17,,Bundesliga
+61,4,Borussia Dortmund,7,5,2,0,16,8,8,17,,Bundesliga
+62,5,Hoffenheim,7,5,0,2,16,11,5,15,,Bundesliga
+63,6,RB Leipzig,7,4,2,1,16,6,10,14,,Bundesliga
+64,7,Wolfsburg,7,4,0,3,10,9,1,12,,Bundesliga
+65,8,Eintracht Frankfurt,7,2,4,1,6,5,1,10,,Bundesliga
+66,9,SC Freiburg,7,3,1,3,7,13,-6,10,,Bundesliga
+67,10,1. FC Heidenheim 1846,7,2,1,4,10,15,-5,7,,Bundesliga
+68,11,SV Darmstadt 98,7,2,1,4,12,19,-7,7,,Bundesliga
+69,12,M'gladbach,7,1,3,3,13,16,-3,6,,Bundesliga
+70,13,1. FC Union Berlin,7,2,0,5,11,14,-3,6,,Bundesliga
+71,14,Werder Bremen,7,2,0,5,12,17,-5,6,,Bundesliga
+72,15,FC Augsburg,7,1,2,4,10,17,-7,5,,Bundesliga
+73,16,Bochum,7,0,4,3,5,19,-14,4,,Bundesliga
+74,17,Mainz,7,0,2,5,6,19,-13,2,,Bundesliga
+75,18,Cologne,7,0,1,6,4,14,-10,1,,Bundesliga
+76,1,AC Milan,8,7,0,1,16,8,8,21,,Seria A
+77,2,Inter Milan,8,6,1,1,21,5,16,19,,Seria A
+78,3,Juventus,8,5,2,1,14,6,8,17,,Seria A
+79,4,Fiorentina,8,5,2,1,18,11,7,17,,Seria A
+80,5,Napoli,8,4,2,2,17,9,8,14,,Seria A
+81,6,Atalanta,8,4,1,3,13,8,5,13,,Seria A
+82,7,Monza,8,3,3,2,8,7,1,12,,Seria A
+83,8,Frosinone,8,3,3,2,11,11,0,12,,Seria A
+84,9,Lecce,8,3,3,2,9,10,-1,12,,Seria A
+85,10,Roma,8,3,2,3,19,12,7,11,,Seria A
+86,11,Bologna,8,2,5,1,8,6,2,11,,Seria A
+87,12,Sassuolo,8,3,1,4,12,14,-2,10,,Seria A
+88,13,Lazio,8,3,1,4,10,12,-2,10,,Seria A
+89,14,Torino,8,2,3,3,6,9,-3,9,,Seria A
+90,15,Genoa,8,2,2,4,10,12,-2,8,,Seria A
+91,16,Verona,8,2,2,4,5,8,-3,8,,Seria A
+92,17,Udinese,8,0,5,3,4,12,-8,5,,Seria A
+93,18,Empoli,8,1,1,6,1,16,-15,4,,Seria A
+94,19,Salernitana,8,0,3,5,4,17,-13,3,,Seria A
+95,20,Cagliari,8,0,2,6,3,16,-13,2,,Seria A
+96,1,PSV Eindhoven,8,8,0,0,27,2,25,24,,Eredivisie
+97,2,AZ Alkmaar,8,7,1,0,22,4,18,22,,Eredivisie
+98,3,FC Twente,8,7,0,1,17,4,13,21,,Eredivisie
+99,4,Feyenoord,8,6,2,0,28,6,22,20,,Eredivisie
+100,5,Excelsior,8,3,4,1,14,11,3,13,,Eredivisie
+101,6,Go Ahead Eagles,8,4,1,3,17,15,2,13,,Eredivisie
+102,7,Sparta Rotterdam,8,3,2,3,10,13,-3,11,,Eredivisie
+103,8,Heracles Almelo,8,3,2,3,12,17,-5,11,,Eredivisie
+104,9,Fortuna Sittard,8,2,3,3,7,14,-7,9,,Eredivisie
+105,10,NEC Nijmegen,8,2,2,4,13,15,-2,8,,Eredivisie
+106,11,Vitesse Arnhem,8,2,1,5,6,11,-5,7,,Eredivisie
+107,12,PEC Zwolle,8,2,1,5,7,14,-7,7,,Eredivisie
+108,13,Heerenveen,8,2,1,5,10,18,-8,7,,Eredivisie
+109,14,Almere City FC,8,2,1,5,7,18,-11,7,,Eredivisie
+110,15,RKC Waalwijk,7,2,0,5,5,14,-9,6,,Eredivisie
+111,16,Ajax,6,1,2,3,8,12,-4,5,,Eredivisie
+112,17,FC Volendam,7,1,1,5,7,16,-9,4,,Eredivisie
+113,18,FC Utrecht,8,1,0,7,4,17,-13,3,,Eredivisie
+114,1,Celtic,8,7,1,0,19,5,14,22,,Scottish premiership
+115,2,Rangers,8,5,0,3,13,5,8,15,,Scottish premiership
+116,3,St Mirren,8,4,3,1,11,10,1,15,,Scottish premiership
+117,4,Hearts,8,3,2,3,7,5,2,11,,Scottish premiership
+118,5,Motherwell,8,3,1,4,7,9,-2,10,,Scottish premiership
+119,6,Livingston,8,2,4,2,8,12,-4,10,,Scottish premiership
+120,7,Hibernian,8,2,3,3,13,12,1,9,,Scottish premiership
+121,8,Aberdeen,8,2,3,3,10,10,0,9,,Scottish premiership
+122,9,Kilmarnock,8,1,4,3,8,11,-3,7,,Scottish premiership
+123,10,Dundee,7,1,4,2,7,10,-3,7,,Scottish premiership
+124,11,Ross County,7,2,1,4,6,12,-6,7,,Scottish premiership
+125,12,St. Johnstone,8,0,4,4,3,11,-8,4,,Scottish premiership

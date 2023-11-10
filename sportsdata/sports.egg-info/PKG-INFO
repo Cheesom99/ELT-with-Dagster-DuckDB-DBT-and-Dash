@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: sports
+Version: 0.0.0
+Requires-Dist: dagster
+Requires-Dist: dagster-cloud
+Requires-Dist: dagster
+Requires-Dist: dbt-duckdb
+Requires-Dist: dash
+Requires-Dist: duckdb
+Requires-Dist: bs4
+Requires-Dist: pandas
+Requires-Dist: requests
+Requires-Dist: dagster-webserver
+Requires-Dist: lxml
+Requires-Dist: dagit
+Requires-Dist: dagster-duckdb
+Requires-Dist: dagster-duckdb-pandas
+Provides-Extra: dev
+Requires-Dist: dagster-webserver; extra == "dev"
+Requires-Dist: pytest; extra == "dev"

@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+sports.egg-info/PKG-INFO
+sports.egg-info/SOURCES.txt
+sports.egg-info/dependency_links.txt
+sports.egg-info/requires.txt
+sports.egg-info/top_level.txt
+sportsdata/__init__.py
+sportsdata/assets.py
+sportsdata_tests/__init__.py
+sportsdata_tests/test_assets.py
